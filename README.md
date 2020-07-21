@@ -35,7 +35,7 @@ Known Issues
 
 
 Technologies Used
-{CSS and HTML have been used to create the site.}
+{CSS HTML and Javascript have been used to create the site.}
 
 
 
